@@ -9,7 +9,7 @@ This project utilizes Excel, SQL Server, and Power BI to analyze customer data, 
 ## Data Source
 Incubator Hub, Capstone Project
 
-##Tools Used
+## Tools Used
 - **Excel**: For initial data processing and exploratory analysis[Download here](https://www.microsoft word)
 - **SQL Server**: For data storage, transformation, and management.[Download here](https://www.microsoft word)
 - **Power BI**: For creating interactive dashboards and visualizations.[Download here][Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
@@ -62,7 +62,7 @@ CREATE DATABASE CustomerData;
  ![Pivot Table Customer Data 1](https://github.com/user-attachments/assets/d100c9bf-65eb-4fcf-bfae-19819dffa3db)
  ![Pivot Table Customer data 2](https://github.com/user-attachments/assets/aea11aec-ae87-4d19-b617-1569050c7880)
 
-##**Charts**:
+## Charts
 ![Capstone Proj  Chart 2](https://github.com/user-attachments/assets/03e4b849-9883-405b-a9ec-8bfef683a593)
 
 ## SQL 
