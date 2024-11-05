@@ -58,6 +58,10 @@ CREATE DATABASE CustomerData;
     - **Revenue Analysis**: Total Revenue by Subscription
 
  ## Data Visualization
+ 
+ ##Some Calculations carried out in Excel
+ ![Average customer data](https://github.com/user-attachments/assets/3c593076-a707-471b-b383-40c96c6d76e7)
+
  ## Pivot Table
  ![Pivot Table Customer Data 1](https://github.com/user-attachments/assets/d100c9bf-65eb-4fcf-bfae-19819dffa3db)
  ![Pivot Table Customer data 2](https://github.com/user-attachments/assets/aea11aec-ae87-4d19-b617-1569050c7880)
