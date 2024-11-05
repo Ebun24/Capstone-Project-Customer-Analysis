@@ -58,7 +58,7 @@ CREATE DATABASE CustomerData;
     - **Revenue Analysis**: Total Revenue by Subscription
 
  ## Data Visualization
- ##**Pivot Table**:
+ ## Pivot Table
  ![Pivot Table Customer Data 1](https://github.com/user-attachments/assets/d100c9bf-65eb-4fcf-bfae-19819dffa3db)
  ![Pivot Table Customer data 2](https://github.com/user-attachments/assets/aea11aec-ae87-4d19-b617-1569050c7880)
 
