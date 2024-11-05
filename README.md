@@ -10,15 +10,15 @@ This project utilizes Excel, SQL Server, and Power BI to analyze customer data, 
 Incubator Hub, Capstone Project
 
 ## Tools Used
-- **Excel**: For initial data processing and exploratory analysis[Download here](https://www.microsoft word)
-- **SQL Server**: For data storage, transformation, and management.[Download here](https://www.microsoft word)
+- **Excel**: For initial data processing and exploratory analysis[Download here](https://www.microsoft.com)
+- **SQL Server**: For data storage, transformation, and management.[Download here](https://www.microsoft.com)
 - **Power BI**: For creating interactive dashboards and visualizations.[Download here][Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
-- **Github for Portfolio Building
+- **Github for Portfolio Building** (GitHub.com)
   
 ## Data Cleaning and Preparation
--**Standardize Data Formats**:Remove or impute as needed
--**Calculate Derived Columns**: Add SubscriptionDuration
--**Validate Data Consistency**: Check for negative revenues, date inconsistencies, and ensure positive subscription durations.
+- **Standardize Data Formats**:Remove or impute as needed
+- **Calculate Derived Columns**: Add SubscriptionDuration
+- **Validate Data Consistency**: Check for negative revenues, date inconsistencies, and ensure positive subscription durations.
 
 ## Data Analysis 
 The dataset used for this analysis includes the following columns:
