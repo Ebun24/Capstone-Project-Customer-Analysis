@@ -58,4 +58,34 @@ CREATE DATABASE CustomerData;
     - **Revenue Analysis**: Total Revenue by Subscription
 
  ## Data Visualization
- 
+ ##**Pivot Table**:
+ ![Pivot Table Customer Data 1](https://github.com/user-attachments/assets/d100c9bf-65eb-4fcf-bfae-19819dffa3db)
+ ![Pivot Table Customer data 2](https://github.com/user-attachments/assets/aea11aec-ae87-4d19-b617-1569050c7880)
+
+##**Charts**:
+![Capstone Proj  Chart 2](https://github.com/user-attachments/assets/03e4b849-9883-405b-a9ec-8bfef683a593)
+
+## SQL 
+![Capstone Project Customer data 1](https://github.com/user-attachments/assets/096439dd-6fe7-4b63-bb8e-b84775f18625)
+
+## PowerBI
+![Capstone PowerBI Customer Data](https://github.com/user-attachments/assets/a71c5c0c-80cc-4262-b8ad-d080f2e25556)
+
+## Conclusion
+This documentation provides a comprehensive overview of the Customer Data Analysis project, detailing the processes involved in utilizing Excel, SQL Server, and Power BI for effective customer segmentation and performance analysis. Through the integration of these tools, we have established a robust framework for analyzing customer behavior, identifying trends, and generating actionable insights.
+
+## Key Takeaways:
+-**Data Preparation**: Excel was used for initial data cleaning and exploratory analysis, allowing for the identification of key metrics and segmentation criteria.
+-**Database Management**: SQL Server facilitated efficient data storage and management, enabling complex queries to derive insights about customer subscriptions and cancellations.
+-**Visual Analytics**: Power BI transformed raw data into interactive visualizations, providing stakeholders with a clear understanding of customer segments, trends, and overall performance metrics.
+
+## Project Outcomes:
+The project successfully highlighted significant patterns in customer behavior, including subscription trends and cancellation rates.
+The interactive dashboard created in Power BI allows users to dynamically filter data by various dimensions such as region and subscription type, enhancing decision-making capabilities.
+
+## Future Enhancements:
+Continuous improvement of the dashboard by incorporating additional data sources or metrics that could provide deeper insights into customer preferences.
+Regular updates to the underlying SQL database to ensure that the analysis reflects the most current data available.
+
+## Acknowledgment 
+Thank you Incubator Hub for this amazing Opportunity, God bless you. I encourage contributions to this project and welcome any feedback or suggestions for improvement. Thank you for exploring this analysis, and I hope it provides valuable insights into customer behavior! 
